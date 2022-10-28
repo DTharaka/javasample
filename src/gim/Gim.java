@@ -15,9 +15,9 @@ public class Gim {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      main my= new main();
-      my.details(2,4.5);
-      my.force();
+      main mine = new main();
+      mine.details(2,4.5);
+      mine.force();
     }
     
 }
